@@ -1,0 +1,17 @@
+# .gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# dotenv
+.env/
+.DS_Store
+
+# flagged 
+flagged/
+
+# API Key
+apikey.txt
+
